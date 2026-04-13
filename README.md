@@ -1,6 +1,6 @@
 # Pair-HF-trading-in-simple-framework
 A lightweight pair trading system for high-frequency statistical arbitrage using L2 data. Implements correlation screening, cointegration testing, and execution with real-time risk controls.<br>
-Keys: 1. Correlation Screening​ → 2. Cointegration Validation​ → 3. Hedged Execution​ → 4. Performance Analysis<br>
+Keys: Correlation Screening​ → Cointegration Validation​ → Hedged Execution​ → Performance Analysis<br>
 
 **Pair Selection Protocol**
 * Step 1: Correlation​ - Filter for high positive correlation (>0.6) to ensure directional alignment
